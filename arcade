@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/clh/clh-arcade-games
+clh-arcade & google-chrome http://localhost:1234

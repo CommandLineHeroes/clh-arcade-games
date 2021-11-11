@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=CLH Arcade launcher
+Terminal=false
+Name=CLH ARCADE
+Exec=arcade
+Type=Application
