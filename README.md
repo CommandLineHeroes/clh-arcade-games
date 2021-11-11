@@ -1,4 +1,4 @@
-#CLH Arcade Games
+# CLH Arcade Games
 This is a bundle of games to be used in conjuction with the `clh-arcade` command.
 
 ## Install
