@@ -1,0 +1,28 @@
+[
+    {
+		"name": "BASH",
+		"path": "games/bash",
+		"thumb": "clh-bash.png",
+		"repo": "https://github.com/CommandLineHeroes/clh-bash",
+		"author": "Michael Clayton & Jared Sprague",
+		"msg": "Play this CLI challenge!  Made in collaboration with the <a target=_blank href=https://www.redhat.com/en/command-line-heroes>Command Line Heroes</a> podcast.<br><br>Made with: <small>#three.js #js #html #fedora</small>"
+	},
+    {
+		"name": "Pity About Earth...",
+		"path": "games/pae",
+		"thumb": "pae.png",
+		"repo": "https://github.com/ScriptaGames/pityaboutearth",
+		"author": "Michael Clayton & Jared Sprague",
+		"authorurl": "http://scripta.co",
+		"msg": "Humanity, listen up.  This is the Universe.  I am sick of you."
+	},
+    {
+		"name": "PodEscape",
+		"path": "games/podescape",
+		"thumb": "pod_escape.png",
+		"repo": "https://github.com/CodeCafeOpenShiftGame/podescape.io",
+		"author": "Red Hat Game Dev",
+		"authorurl": "https://github.com/redhat-gamedev",
+		"msg": "Your project is being deleted—help a pod escape from a disappearing digital landscape."
+	}
+]
